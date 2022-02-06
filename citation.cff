@@ -4,9 +4,23 @@ authors:
 - family-names: "Shanks, "
   given-names: "Kira"
   orcid: "https://orcid.org/0000-0002-2820-0915"
-- family-names: "Lisa"
-  given-names: "Mona"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
+- family-names: "Kupinski"
+  given-names: "Meredith"
+  orcid: "https://orcid.org/0000-0002-8016-4667"
+- family-names: "Parkinson"
+  given-names: "Jeremy"
+- family-names: "John"
+  given-names: "Jaclyn"
+- family-names: "Ramirez"
+  given-names: "Nayleth"
+- family-names: "Contreras"
+  given-names: "Eddie"
+- family-names: "Niell"
+  given-names: "Thor"
+- family-names: "Khawam"
+  given-names: "Wassim"
+  
+
 title: "IRCSP-Payload"
 version: 1.0.0
 doi: 10.5281/zenodo.1234
