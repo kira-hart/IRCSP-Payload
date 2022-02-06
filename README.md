@@ -20,3 +20,5 @@ Wassim Khawam
 
 **Undergraduate Research Assistants**<br />
 Atkin Hyatt <br />
+
+[![DOI](https://zenodo.org/badge/288764467.svg)](https://zenodo.org/badge/latestdoi/288764467)
